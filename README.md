@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **suyashsrivastav945@gmail.com**
+- 📫 How to reach me **developersuyash@gmail.com**
 
 
 ## 🌐 Socials:
